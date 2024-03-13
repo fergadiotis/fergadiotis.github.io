@@ -1,69 +1,26 @@
 # fergadiotis.github.io
 
-<div align="center">
-  <img height="300" src="https://www.bing.com/images/search?view=detailV2&ccid=G9Uy02tw&id=CBC23FA03D3D6B81E86CC8FF29AEDDDAB9B557E1&thid=OIP.G9Uy02twd1qWoVuhJF97mAHaEK&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2frShshdPArHw%2fmaxresdefault.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1bd532d36b70775a96a15ba1245f7b98%3frik%3d4Ve1udrdrin%252fyA%26pid%3dImgRaw%26r%3d0&exph=720&expw=1280&q=BMW+in+anonymous+image&simid=608034642455717225&FORM=IRPRST&ck=9FC4067BAAE8CC43C4AA2B41B15623FB&selectedIndex=16&itb=0&ajaxhist=0&ajaxserp=0" />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="left">My name is Tassos Fergadiotis and I'm a Student, from Trios College</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<p align="left">✨ Creating bugs since<br>📚 I'm currently learning Mobile Web Developer<br>🎯 Goals:to be a Web and Apps developer<br>🎲 Fun fact: Yes I can</p>
 
 ###
 
-<h3 align="left">  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+  <img src="https://www.bing.com/images/search?view=detailv2&form=SBIHVR&darkschemeovr=1&iss=sbi&q=imgurl:https%3A%2F%2Fgithub.githubassets.com%2Fassets%2FGitHub-Mark-ea2971cee799.png&pageurl=https%3A%2F%2Fgithub.com%2Flogos&pagetl=GitHub+Logos+and+Usage&imgalt=GitHub+Logomark&imgsz=200x199&selectedindex=1&id=https%3A%2F%2Fradxa.com%2Fcomponents%2Fgitoff.png&ccid=yCdM9Tdz&simid=608038099866099589&ck=E8F69E60F4AA4F9A72AFCD5B99097848&thid=OIP.yCdM9TdzWp6HRCgCJ9Ow-AAAAA&mediaurl=https%3A%2F%2Fradxa.com%2Fcomponents%2Fgitoff.png&exph=336&expw=336&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.c8274cf537735a9e8744280227d3b0f8%3Frik%3DzqotmfzcIg4YQw%26pid%3DImgRaw%26r%3D0&vt=2&sim=11" height="40" alt="github logo"  />
+ 
+ ###
